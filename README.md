@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Trimadius
 - 👀 I’m interested in python
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on DevOps
 
 <!---
 Trimadius/Trimadius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
